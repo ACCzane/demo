@@ -1568,9 +1568,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-<<<<<<< HEAD
-    nameFileIdTable: {}
-=======
     nameFileIdTable:
       SkillEnd_0: 3709065652348531779
       SkillEnd_1: -1221876934249761127
@@ -1633,7 +1630,6 @@ TextureImporter:
       SkillEnd_7: 1400112855428033808
       SkillEnd_8: -635007063535663869
       SkillEnd_9: -9088571847650587338
->>>>>>> 49ec8ad (test update)
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

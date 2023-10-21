@@ -992,9 +992,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-<<<<<<< HEAD
-    nameFileIdTable: {}
-=======
     nameFileIdTable:
       SkillLoop_0: -4707915106627438607
       SkillLoop_1: 2601584155344227701
@@ -1033,7 +1030,6 @@ TextureImporter:
       SkillLoop_7: 4303529550121129671
       SkillLoop_8: 3593753615937138594
       SkillLoop_9: 8257621759506429784
->>>>>>> 49ec8ad (test update)
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -440,9 +440,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-<<<<<<< HEAD
-    nameFileIdTable: {}
-=======
     nameFileIdTable:
       Sheep_0: 3184159518366690391
       Sheep_1: -94349284460663922
@@ -458,7 +455,6 @@ TextureImporter:
       Sheep_7: 7612248895570567786
       Sheep_8: 382791443694433421
       Sheep_9: -9054543601283334404
->>>>>>> 49ec8ad (test update)
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
