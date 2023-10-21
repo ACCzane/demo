@@ -54,6 +54,10 @@ MonoBehaviour:
   invincibleDuration: 2
   isInvincible: 0
   dodgeSpeed: 50
+<<<<<<< HEAD
+=======
+  dir: 5
+>>>>>>> 49ec8ad (test update)
   dodgeDuration: 0.7
   isdodge: 0
   playerProjectile: {fileID: 8692034999741024088, guid: 02a6807241f42f14a96a0ff032543603, type: 3}
