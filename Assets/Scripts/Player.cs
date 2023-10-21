@@ -21,11 +21,19 @@ public class Player : MonoBehaviour
 
     [Header("闪避相关")]
     public float dodgeSpeed;
+<<<<<<< HEAD
+=======
+    public float dir = 50.0f;
+>>>>>>> 49ec8ad (test update)
     public float dodgeDuration;
     public bool isdodge;
     private float dodgeCounter;
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 49ec8ad (test update)
     [Header("Player子弹参数")]
     public GameObject playerProjectile;
     public float fireInterval;  //开火间隔时间
@@ -59,10 +67,36 @@ public class Player : MonoBehaviour
     /// </summary>
     public void playerMove()
     {
+<<<<<<< HEAD
         float xAxis = Input.GetAxis("Horizontal");
         float yAxis = Input.GetAxis("Vertical");
         Vector3 pos = new Vector3(xAxis * xPlayerSpeed, yAxis * yPlayerSpeed, 0);
         this.transform.position += pos;
+=======
+        //float xAxis = Input.GetAxis("Horizontal");
+        //float yAxis = Input.GetAxis("Vertical");
+        //Vector3 pos = new Vector3(xAxis * xPlayerSpeed, yAxis * yPlayerSpeed, 0);
+        //this.transform.position += pos;
+        float speed1 = 3.0f;
+        Vector3 speedDir = Vector3.zero;
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            speedDir.x += -1;
+        }
+        if (Input.GetKey(KeyCode.RightArrow))
+        {
+            speedDir.x += 1;
+        }
+        if (Input.GetKey(KeyCode.UpArrow))
+        {
+            speedDir.y += 1;
+        }
+        if (Input.GetKey(KeyCode.DownArrow))
+        {
+            speedDir.y += -1;
+        }
+        GetComponent<Rigidbody2D>().velocity = speedDir * speed1;
+>>>>>>> 49ec8ad (test update)
     }
 
     /// <summary>
@@ -119,7 +153,12 @@ public class Player : MonoBehaviour
                 speedDir.y += -1;
             }
             if (speedDir == Vector3.zero) speedDir.x = -1f;
+<<<<<<< HEAD
             this.transform.position += speedDir.normalized * dodgeSpeed * Time.deltaTime;
+=======
+            //this.transform.position += speedDir.normalized * dodgeSpeed * Time.deltaTime;
+            this.GetComponent<Rigidbody2D>().MovePosition(transform.position+speedDir*dir);
+>>>>>>> 49ec8ad (test update)
             dodgeCounter = Time.time;
             isInvincible = true;
             isdodge = true;

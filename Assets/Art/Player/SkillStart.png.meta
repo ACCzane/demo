@@ -1280,7 +1280,60 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<< HEAD
     nameFileIdTable: {}
+=======
+    nameFileIdTable:
+      SkillStart_0: 3627722327781709741
+      SkillStart_1: 7814523911086441798
+      SkillStart_10: -2998498327105018945
+      SkillStart_11: 588473781297311089
+      SkillStart_12: 832513100941394030
+      SkillStart_13: -5231936291472884539
+      SkillStart_14: -2912117933949630400
+      SkillStart_15: -3486462849008240013
+      SkillStart_16: 3865810418278306869
+      SkillStart_17: 1059544318773390863
+      SkillStart_18: 6694790874196357895
+      SkillStart_19: 7446534168974509041
+      SkillStart_2: 7778821651024449530
+      SkillStart_20: -4539309245939987780
+      SkillStart_21: 1315946723318479007
+      SkillStart_22: -508220392851259744
+      SkillStart_23: -8642810402339230606
+      SkillStart_24: -940036362146165039
+      SkillStart_25: 5845008665243997772
+      SkillStart_26: -9052389851461108788
+      SkillStart_27: -913373035110159532
+      SkillStart_28: -3673778610497698062
+      SkillStart_29: 3790825632636137377
+      SkillStart_3: -9195225736810428143
+      SkillStart_30: 8650284773531764639
+      SkillStart_31: -547214060181800240
+      SkillStart_32: 2379592688850319505
+      SkillStart_33: 8291268437437139326
+      SkillStart_34: -7837181792030486387
+      SkillStart_35: -7946582014978784576
+      SkillStart_36: 5749380734345268260
+      SkillStart_37: 687088634663962719
+      SkillStart_38: -1661759109219574361
+      SkillStart_39: 778114884573481530
+      SkillStart_4: -3159286597989125006
+      SkillStart_40: 1947176435368722152
+      SkillStart_41: -8642325740116269081
+      SkillStart_42: 3462074556615296694
+      SkillStart_43: 1796279033802264406
+      SkillStart_44: 2262552078575998797
+      SkillStart_45: -6701587676125798695
+      SkillStart_46: -3760458757471305724
+      SkillStart_47: 4434704788368772780
+      SkillStart_48: -8738555321024979784
+      SkillStart_5: -2995224634792411600
+      SkillStart_6: 1844507555001181618
+      SkillStart_7: 7023472640655049851
+      SkillStart_8: 8204216691913508992
+      SkillStart_9: 3673407708030875068
+>>>>>>> 49ec8ad (test update)
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

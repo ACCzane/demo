@@ -992,7 +992,48 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<< HEAD
     nameFileIdTable: {}
+=======
+    nameFileIdTable:
+      SkillLoop_0: -4707915106627438607
+      SkillLoop_1: 2601584155344227701
+      SkillLoop_10: -3614737338683621216
+      SkillLoop_11: -4505895397736383084
+      SkillLoop_12: -8587738544990794477
+      SkillLoop_13: -5895075421093836869
+      SkillLoop_14: 3189237369317069800
+      SkillLoop_15: 7814725543552980219
+      SkillLoop_16: -3273867048396842045
+      SkillLoop_17: -7268469231465679951
+      SkillLoop_18: -7995082523386640485
+      SkillLoop_19: -6216942286664323439
+      SkillLoop_2: 5051236608430059556
+      SkillLoop_20: 6191759541877096385
+      SkillLoop_21: 4133677164198020399
+      SkillLoop_22: 8616962987744216163
+      SkillLoop_23: -5542614538186002692
+      SkillLoop_24: -8476856459713228455
+      SkillLoop_25: 2212903364259137187
+      SkillLoop_26: -7222446483497510005
+      SkillLoop_27: 2707016156688633703
+      SkillLoop_28: 2550616963886783791
+      SkillLoop_29: -5510745747383012404
+      SkillLoop_3: 1456913209207624781
+      SkillLoop_30: -7376023335258032368
+      SkillLoop_31: 1395935144680618599
+      SkillLoop_32: -4745428574849845285
+      SkillLoop_33: -7529669136763461809
+      SkillLoop_34: 6711678062297385712
+      SkillLoop_35: 4671427634529993784
+      SkillLoop_36: 3741040680978742048
+      SkillLoop_4: -8503585034383163285
+      SkillLoop_5: -2597267316025522397
+      SkillLoop_6: 2858587066998428834
+      SkillLoop_7: 4303529550121129671
+      SkillLoop_8: 3593753615937138594
+      SkillLoop_9: 8257621759506429784
+>>>>>>> 49ec8ad (test update)
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
